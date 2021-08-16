@@ -1,2 +1,3 @@
 # PayloadMaker
-I am noobie in cybersecurity this is first payload script .
+Bash Script using msfvenom ( Metasploit) to make the payload for deploying . 
+
